@@ -1,0 +1,20 @@
+body {
+  background-color: #CECECE;
+}
+
+.father {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.card {
+  border-radius: 1rem;
+  border-width: 0px 0px 10px 0px;
+  border-style: solid;
+  border-color: #c2c2c2;
+  box-shadow: 4px 5px 15px #0000009b;
+}
