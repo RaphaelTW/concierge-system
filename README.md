@@ -1,6 +1,8 @@
 
 # Concierge System
 
+## tabela `users`, com os tipos e tamanhos:
+
 | Coluna   | Tipo     | Tamanho/Valores | Descrição                                                  |
 |----------|----------|-----------------|------------------------------------------------------------|
 | `id`     | `INT`    | `AUTO_INCREMENT PRIMARY KEY` | Identificador único para cada usuário.                   |
