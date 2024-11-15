@@ -7,12 +7,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
     <meta name="description" content="" />
 
-    <title>Bem Vindo!</title>
+    <title>Portaria!</title>
 
-
+    <!-- bootstrap 5 -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
       integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <!-- fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap"
+      rel="stylesheet">
+    <!-- favicon -->
+    <link rel="icon" type="image/png" href="./src/img/favicon.png">
+    <!-- style reset -->
     <link rel="stylesheet" href="./src/css/reset.css">
+    <!-- style global -->
     <link rel="stylesheet" href="./src/css/style.css">
   </head>
 
@@ -40,7 +50,8 @@
                   <div>
                     <div class="mb-3">
                       <label for="" class="form-label">Senha</label>
-                      <input type="password" name="senha" class="form-control" id="" placeholder="Digite a sua senha">
+                      <input type="password" name="password" class="form-control" id=""
+                        placeholder="Digite a sua senha">
                     </div>
                   </div>
 
